@@ -1,0 +1,11 @@
+body{
+  text-align:center;
+    
+}
+#home{
+  background-color: aqua;  
+  width: 50%;  
+ height: auto; 
+text-align:center;
+ margin-left: 500px;   
+}
